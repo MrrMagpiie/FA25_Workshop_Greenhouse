@@ -3,7 +3,7 @@
 ## Video Explaining Git, Github, and Github Desktop
 https://www.youtube.com/watch?v=8Dd7KRpKeaE
 
-## Video demonstrating some usage of github
+## Video demonstrating some usage of Github (in vs code)
 https://www.youtube.com/watch?v=qemRmlMhfjI
 
 
