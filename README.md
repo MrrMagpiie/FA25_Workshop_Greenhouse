@@ -22,7 +22,7 @@ While these features are not part of the MVP, they are potential enhancements:
 
 - Plant-Specific Database: A database of optimal environmental attributes for various plants. This feature would enable automatic adjustments to environmental conditions based on the specific needs of different plants.
 - Experimental Analytics: Using sensor data to experiment with and determine the best environmental conditions for plant growth.
-- AI Integration: Training an AI to identify physical signs of nutrient deficiencies in plants based on and image feed.
+- AI Integration: Training an AI to identify physical signs of nutrient deficiencies in plants based on an image feed.
 
 
 ## Contributing
