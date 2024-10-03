@@ -10,7 +10,7 @@
 		- Marquise: Story management
 		- Taran: PM/ Whatever needs doing and Hardware Integration
 		- Cody: Hardware Integration
-	- We had some issues with assigning Stories within the ServiceNow instance. We are looking into what permissions are required to give the Teams access to this.
+	- We had some issues with assigning Stories within the ServiceNow instance. This issue has been resolved but not tested
 	- We had some issues with the admin profiles that we set up but it has been resolved and everyone has access to their admin profiles now
 	- Showed everyone the App within AES and confirmed that everyone has access to it.  
 - Identified Possible API's [This](https://docs.servicenow.com/bundle/xanadu-api-reference/page/integrate/inbound-rest/concept/c_TableAPI.html) we can use to integrate with ServiceNow
@@ -22,7 +22,7 @@
 # Current Goals:
 
 ## Get Stories Working 
-Get the teams access to stories within ServiceNow to offer better direction to team members
+Create Stories within Service now to give everyone a bit more direction as to what needs to be done
 
 ## First Steps of Integration
 Now that we have a specific parts list we can find the tools within ESP for the hardware that has been ordered.
