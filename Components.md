@@ -1,6 +1,6 @@
 [Pages](Pages.md)
 
-# Reality
+# Current Setup
 Our current setup can be broken down into 4 categories
 - Microcontroller
 - Home-Assistant and ESP-home
