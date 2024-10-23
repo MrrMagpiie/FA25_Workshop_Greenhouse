@@ -1,3 +1,5 @@
+[Pages](Pages.md)
+
 # Story Points 
 the scale we will be using for Story points is as follows
 

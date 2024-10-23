@@ -1,3 +1,4 @@
+[Pages](Pages.md)
 
 # Reality
 Our current setup can be broken down into 4 categories

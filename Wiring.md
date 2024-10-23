@@ -1,3 +1,4 @@
+[Pages](Pages.md)
 # Sensors
 # Pins
 ## I2C

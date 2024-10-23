@@ -1,5 +1,12 @@
 # Old_Ones_Greenhouse
+[Pages](Pages.md)
 
+# Current Pages
+[Agile Developmemnt Docs](Agile_Development.md)
+[Components Docs](Components.md)
+[Database Docs](Database.md)
+[Frontend Docs](Frontend.md)
+[Wiring Docs](Wiring.md)
 
 Welcome to the Old_Ones_Greenhouse project! This repository hosts the collaborative efforts of our Software Engineering, Web Development, and Computer Workshop teams as we build a hydroponic greenhouse management and automation system.
 
@@ -28,3 +35,5 @@ While these features are not part of the MVP, they are potential enhancements:
 - Plant-Specific Database: A database of optimal environmental attributes for various plants. This feature would enable automatic adjustments to environmental conditions based on the specific needs of different plants.
 - Experimental Analytics: Using sensor data to experiment with and determine the best environmental conditions for plant growth.
 - AI Integration: Training an AI to identify physical signs of nutrient deficiencies in plants based on an image feed.
+
+
