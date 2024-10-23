@@ -6,7 +6,7 @@ Welcome to the Old_Ones_Greenhouse project! This repository hosts the collaborat
 The goal of this project is to develop a system for managing and automating a hydroponic greenhouse. This system will include both hardware and software components to monitor and optimize plant growth conditions.
 
 ## Wiki/Documentation
-The link to the Wiki will be here when it is presentable
+The documentation wiki for this project it currently hosted on Github pages through this link https://mrrmagpiie.github.io/Old_Ones_Greenhouse/ The repo for this site is the pagss branch of this repo
 ## Planned Features
 
 Our minimum viable product (MVP) will include:
