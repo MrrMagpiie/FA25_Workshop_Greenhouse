@@ -2,11 +2,11 @@
 [Pages](Pages.md)
 
 # Current Pages
-[Agile Developmemnt Docs](Agile_Development.md)
-[Components Docs](Components.md)
-[Database Docs](Database.md)
-[Frontend Docs](Frontend.md)
-[Wiring Docs](Wiring.md)
+- [Agile Developmemnt Docs](Agile_Development.md)
+- [Components Docs](Components.md)
+- [Database Docs](Database.md)
+- [Frontend Docs](Frontend.md)
+- [Wiring Docs](Wiring.md)
 
 Welcome to the Old_Ones_Greenhouse project! This repository hosts the collaborative efforts of our Software Engineering, Web Development, and Computer Workshop teams as we build a hydroponic greenhouse management and automation system.
 
