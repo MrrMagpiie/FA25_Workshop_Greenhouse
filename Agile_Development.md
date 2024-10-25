@@ -5,8 +5,8 @@ the scale we will be using for Story points is as follows
 
 | Points | Hours |
 | ------ | ----- |
-| 1      | 2-4   |
-| 2      | 4-10  |
-| 3      | 10-20 |
-| 4      | 20-40 |
-| 5      | 40+   |
+| 1      | 1-2   |
+| 2      | 2-4   |
+| 3      | 4-8   |
+| 4      | 8-12  |
+| 5      | 12+   |
