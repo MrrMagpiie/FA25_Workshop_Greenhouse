@@ -31,6 +31,7 @@ we have an array of sensors setup the major components in the system include
 - Light Level
 
 ### Specific Sensors
+
 | Type       | Sensor            |
 | ---------- | ----------------- |
 | Lux        | TSL2591           |
@@ -39,6 +40,7 @@ we have an array of sensors setup the major components in the system include
 | TDS        | Arduino TDS Meter |
 | PH         | PH4502C           |
 | Humidity   | SHT30             |
+
 ## Hardware
 We have a few pieces of hardware that will control the environment in the Growing area
 - Ventilation fans
